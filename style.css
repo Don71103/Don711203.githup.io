@@ -1,0 +1,383 @@
+
+
+
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+.header {
+    display: flex;
+}
+
+.img1 {
+    width: 100%;
+
+}
+.a {
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    font-variant: small-caps;
+    color: rgb(0, 0, 0);
+    position: relative;
+}
+
+
+.a1{
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+
+.a:hover {
+    color: rgb(213, 38, 38);
+    text-decoration: underline;
+}
+
+.aa {
+    background-color: rgb(150, 206, 236);
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    margin: 5px;
+    list-style: none;
+    border-radius: 3px;
+    box-shadow: 0 0 2px grey;
+   
+}
+
+.can {
+    float: left;
+}
+
+.can2 {
+    clear: both;
+}
+
+.bantin {
+    background-color: rgb(223, 243, 236);
+    width: 300px;
+    height: 365px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 0 0 5px rgb(71, 55, 217);
+}
+
+.bantin1 {
+    background-color: rgb(223, 243, 236);
+    width: 300px;
+    height: 280px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 0 0 5px rgb(71, 55, 217);
+}
+
+i{
+    text-decoration: none;
+}
+
+i:hover{
+    color: rgb(255, 0, 0);
+}
+
+.p2 {
+    font-variant: small-caps;
+    color: rgb(255, 0, 51);
+    text-align: center;
+    font-size: 25px;
+}
+
+.img2 {
+    width: 100%;
+}
+
+.gdtm {
+    float: right;
+    width: 500px;
+    height: 967px;
+    padding: 15px;
+    margin: 5px;
+    box-shadow: 0 0 5px blue;
+    background-color: rgb(243, 243, 229);  
+}
+
+.imgtc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 35px;
+    width: 100%;
+}
+
+.thongtin{
+    font-size: 25px;
+    color: rgb(65, 65, 58);
+    text-decoration: none;
+    margin-bottom: 15px;
+    
+}
+
+
+
+.thongtin:hover{
+    color: rgb(13, 230, 49);
+}
+
+.p3{
+   
+    font-variant: small-caps;
+    color: rgb(255, 0, 51);
+    text-align: center;
+    font-size: 25px; 
+}
+
+.o{
+    float: left;
+   
+}
+
+
+.o1:hover{
+    box-shadow: 0 0 10px red;
+}
+
+.o1{
+    width: 200px;
+    height: 100px;
+    padding: 15px;
+    margin: 5px;
+    box-shadow: 0 0 5px rgb(214, 86, 86);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 17px;
+}
+
+.g{
+    float: right;
+}
+
+.g1{
+    width: 200px;
+    height: 100px;
+    padding: 15px;
+    margin: 5px;
+    box-shadow: 0 0 5px rgb(214, 86, 86);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 17px;
+    
+}
+
+.g1:hover{
+    box-shadow: 0 0 10px red;
+}
+
+.aog{
+    text-decoration: none;
+
+}
+
+.imgog{
+    width: 100px;
+    margin: auto;
+}
+
+.vd{
+    float: right;
+    width: 580px;
+    height: 960px;
+    padding: 15px;
+    margin: 11px;
+    box-shadow: 0 0 5px blue;
+    
+}
+
+.vd1{
+    padding: auto;
+    margin: auto;
+    
+}
+
+b:hover{
+    color: red;
+}
+
+.p4{
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 25px;
+    color: red;
+}
+
+
+
+footer {
+    background-color:rgb(104, 166, 248);
+    color:rgb(0, 0, 0);
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+.thuvien {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    width: 22%;
+    height: 20%;
+    padding: 10px;
+    box-shadow: 0 0 5px red;
+}
+
+.gioithieu {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    box-shadow: 0 0 10px gray;
+    background: rgb(246, 191, 191);
+    margin-top: 15px;  
+}
+
+.gioithieu1 {
+    font-size: 25px;
+    border: 1px solid gray;
+}
+
+.img5{
+    width: 100%;
+    height: 20%;
+}
+
+.tb{
+    width: 75%;
+}
+
+article{
+    margin-top: -1000px;
+}
+
+:root{
+    --bg2 :#3498db;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+  
+}
+
+.body2 {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: url("/thuvienanh/anhCT33.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body3 {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: url("/thuvienanh/anhCT2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body4 {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: url("/thuvienanh/anhCT4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form  {
+    width: 350px;
+    height: 400px;
+    background: #fff;
+    background: transparent;
+    color: rgb(209, 209, 209);
+    
+
+}
+
+form h2{
+    position: relative;
+    margin: 40px 0 30px;
+    padding-bottom: 10px;
+    
+    width: fit-content;
+    font-size: 55px;
+}
+
+form h2::before{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 5px;
+    background: var(--bg2);
+    bottom: 0;
+}
+
+form button {
+    width: 356px;
+    height: 35px;
+    border: 2px solid var(--bg2);
+    cursor: pointer;
+    background: transparent;
+    color: #fff;
+}
+
+.form-field {
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.form-field input{
+    width: 100%;
+    height: 45px;
+    margin-top: 1px;
+    padding-left: 5px;
+    border: none;
+    border-bottom:  2px solid var(--bg2);
+    outline: none;
+    font-size: 16px;
+    background: transparent;
+    color: #fff;
+    
+}
+
+.form-field input::placeholder{
+    color: #fff;
+}
+
+.form-field i {
+    position:  absolute;
+    font-size: 20px;
+    line-height: 45px;
+}
+
